@@ -1,0 +1,15 @@
+C:\Users\Kleber Jr\Downloads\eng_software_unicesumar-main\Gabriel-Works\Algoritmos de Ordenação\Algoritmos de Ordenação\obj\Debug\net8.0\Algoritmos de Ordenação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kleber Jr\Downloads\eng_software_unicesumar-main\Gabriel-Works\Algoritmos de Ordenação\Algoritmos de Ordenação\obj\Debug\net8.0\Algoritmos de Ordenação.AssemblyInfoInputs.cache
+C:\Users\Kleber Jr\Downloads\eng_software_unicesumar-main\Gabriel-Works\Algoritmos de Ordenação\Algoritmos de Ordenação\obj\Debug\net8.0\Algoritmos de Ordenação.AssemblyInfo.cs
+C:\Users\Kleber Jr\Downloads\eng_software_unicesumar-main\Gabriel-Works\Algoritmos de Ordenação\Algoritmos de Ordenação\obj\Debug\net8.0\Algoritmos de Ordenação.csproj.CoreCompileInputs.cache
+C:\Users\Kleber Jr\Downloads\eng_software_unicesumar-main\Gabriel-Works\Algoritmos de Ordenação\Algoritmos de Ordenação\obj\Debug\net8.0\Algoritmos de Ordenação.sourcelink.json
+C:\Users\Kleber Jr\Downloads\eng_software_unicesumar-main\Gabriel-Works\Algoritmos de Ordenação\Algoritmos de Ordenação\bin\Debug\net8.0\Algoritmos de Ordenação.exe
+C:\Users\Kleber Jr\Downloads\eng_software_unicesumar-main\Gabriel-Works\Algoritmos de Ordenação\Algoritmos de Ordenação\bin\Debug\net8.0\Algoritmos de Ordenação.deps.json
+C:\Users\Kleber Jr\Downloads\eng_software_unicesumar-main\Gabriel-Works\Algoritmos de Ordenação\Algoritmos de Ordenação\bin\Debug\net8.0\Algoritmos de Ordenação.runtimeconfig.json
+C:\Users\Kleber Jr\Downloads\eng_software_unicesumar-main\Gabriel-Works\Algoritmos de Ordenação\Algoritmos de Ordenação\bin\Debug\net8.0\Algoritmos de Ordenação.dll
+C:\Users\Kleber Jr\Downloads\eng_software_unicesumar-main\Gabriel-Works\Algoritmos de Ordenação\Algoritmos de Ordenação\bin\Debug\net8.0\Algoritmos de Ordenação.pdb
+C:\Users\Kleber Jr\Downloads\eng_software_unicesumar-main\Gabriel-Works\Algoritmos de Ordenação\Algoritmos de Ordenação\obj\Debug\net8.0\Algoritmos de Ordenação.dll
+C:\Users\Kleber Jr\Downloads\eng_software_unicesumar-main\Gabriel-Works\Algoritmos de Ordenação\Algoritmos de Ordenação\obj\Debug\net8.0\refint\Algoritmos de Ordenação.dll
+C:\Users\Kleber Jr\Downloads\eng_software_unicesumar-main\Gabriel-Works\Algoritmos de Ordenação\Algoritmos de Ordenação\obj\Debug\net8.0\Algoritmos de Ordenação.pdb
+C:\Users\Kleber Jr\Downloads\eng_software_unicesumar-main\Gabriel-Works\Algoritmos de Ordenação\Algoritmos de Ordenação\obj\Debug\net8.0\Algoritmos de Ordenação.genruntimeconfig.cache
+C:\Users\Kleber Jr\Downloads\eng_software_unicesumar-main\Gabriel-Works\Algoritmos de Ordenação\Algoritmos de Ordenação\obj\Debug\net8.0\ref\Algoritmos de Ordenação.dll
