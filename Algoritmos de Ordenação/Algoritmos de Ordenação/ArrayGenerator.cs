@@ -1,32 +1,18 @@
-﻿public class ArrayGenerator
+﻿using System;
+
+public static class ArrayGenerator
 {
-    public static int[] RandomArray(int size)
-    {
-        Random rand = new Random();
-        int[] arr = new int[size];
-
-        for (int i = 0; i < size; i++)
-            arr[i] = rand.Next(0, 100000);
-
-        return arr;
-    }
-
-    public static int[] SortedArray(int size)
+    public static int[] ReadArrayFromUser(int size)
     {
         int[] arr = new int[size];
 
-        for (int i = 0; i < size; i++)
-            arr[i] = i;
-
-        return arr;
-    }
-
-    public static int[] ReversedArray(int size)
-    {
-        int[] arr = new int[size];
+        Console.WriteLine($"\nDigite {size} números:");
 
         for (int i = 0; i < size; i++)
-            arr[i] = size - i;
+        {
+            Console.Write($"Número {i + 1}: ");
+            arr[i] = int.Parse(Console.ReadLine());
+        }
 
         return arr;
     }

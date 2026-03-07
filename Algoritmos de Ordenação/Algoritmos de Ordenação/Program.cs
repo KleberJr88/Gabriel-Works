@@ -4,18 +4,41 @@ public class Program
 {
     public static void Main(string[] args)
     {
-        int[] sizes = { 1000, 5000, 10000 };
+        Console.WriteLine("===== Benchmark de Ordenação =====");
 
-        foreach (var size in sizes)
+        Console.WriteLine("\nEscolha o algoritmo:");
+        Console.WriteLine("1 - QuickSort");
+        Console.WriteLine("2 - MergeSort");
+
+        int choice = int.Parse(Console.ReadLine());
+
+        Action<int[]> algorithm;
+        string name;
+
+        if (choice == 1)
         {
-            var random = ArrayGenerator.RandomArray(size);
-
-            long quickTime = BenchmarkRunner.Run(QuickSort.Sort, random);
-            long mergeTime = BenchmarkRunner.Run(MergeSort.Sort, random);
-
-            Console.WriteLine($"Size: {size}");
-            Console.WriteLine($"QuickSort: {quickTime} ms");
-            Console.WriteLine($"MergeSort: {mergeTime} ms");
+            algorithm = QuickSort.Sort;
+            name = "QuickSort";
         }
+        else
+        {
+            algorithm = MergeSort.Sort;
+            name = "MergeSort";
+        }
+
+        Console.WriteLine("\n===== Vetor Normal (3 posições) =====");
+
+        int[] normalArray = ArrayGenerator.ReadArrayFromUser(3);
+
+        BenchmarkRunner.Run(name, algorithm, normalArray);
+
+        Console.WriteLine("\n===== Vetor Estendido (5 posições) =====");
+
+        int[] extendedArray = ArrayGenerator.ReadArrayFromUser(5);
+
+        BenchmarkRunner.Run(name, algorithm, extendedArray);
+
+        Console.WriteLine("Pressione ENTER para sair...");
+        Console.ReadLine();
     }
 }
