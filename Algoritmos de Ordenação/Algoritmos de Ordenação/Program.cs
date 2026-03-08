@@ -10,7 +10,7 @@ public class Program
         Console.WriteLine("1 - QuickSort");
         Console.WriteLine("2 - MergeSort");
 
-        int choice = int.Parse(Console.ReadLine());
+        int choice = int.Parse(Console.ReadLine() ?? "1");
 
         Action<int[]> algorithm;
         string name;
@@ -30,15 +30,17 @@ public class Program
 
         int[] normalArray = ArrayGenerator.ReadArrayFromUser(3);
 
-        BenchmarkRunner.Run(name, algorithm, normalArray);
+        Console.WriteLine($"\nAlgoritmo: {name}");
+        BenchmarkRunner.Run(algorithm, normalArray);
 
         Console.WriteLine("\n===== Vetor Estendido (5 posições) =====");
 
         int[] extendedArray = ArrayGenerator.ReadArrayFromUser(5);
 
-        BenchmarkRunner.Run(name, algorithm, extendedArray);
+        Console.WriteLine($"\nAlgoritmo: {name}");
+        BenchmarkRunner.Run(algorithm, extendedArray);
 
-        Console.WriteLine("Pressione ENTER para sair...");
+        Console.WriteLine("\nPressione ENTER para sair...");
         Console.ReadLine();
     }
 }

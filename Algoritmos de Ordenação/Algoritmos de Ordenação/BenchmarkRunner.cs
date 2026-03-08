@@ -3,41 +3,55 @@ using System.Diagnostics;
 
 public static class BenchmarkRunner
 {
-    public static void Run(string algorithmName, Action<int[]> algorithm, int[] data)
+    public static void Run(Action<int[]> sortAlgorithm, int[] array)
     {
-        int[] copy = (int[])data.Clone();
+        const int REPETITIONS = 10;          // número de medições
+        const int INTERNAL_LOOPS = 1000;     // execuções internas para gerar carga real
 
-        Process process = Process.GetCurrentProcess();
+        var process = Process.GetCurrentProcess();
+        process.Refresh();
+
+        long ramUsage = process.WorkingSet64;
 
         TimeSpan cpuBefore = process.TotalProcessorTime;
-        long memBefore = process.WorkingSet64;
 
         Stopwatch sw = Stopwatch.StartNew();
 
-        algorithm(copy);
+        int[] result = Array.Empty<int>();
+
+        for (int r = 0; r < REPETITIONS; r++)
+        {
+            for (int i = 0; i < INTERNAL_LOOPS; i++)
+            {
+                int[] copy = (int[])array.Clone();
+                sortAlgorithm(copy);
+                result = copy;
+            }
+        }
 
         sw.Stop();
 
+        process.Refresh();
+
         TimeSpan cpuAfter = process.TotalProcessorTime;
-        long memAfter = process.WorkingSet64;
 
         double cpuUsedMs = (cpuAfter - cpuBefore).TotalMilliseconds;
-        double cpuPercentage = cpuUsedMs / (Environment.ProcessorCount * sw.ElapsedMilliseconds) * 100;
+        double totalTimeMs = sw.Elapsed.TotalMilliseconds;
 
-        long memUsed = memAfter - memBefore;
+        double cpuPercent = 0;
 
-        double totalRam = GC.GetGCMemoryInfo().TotalAvailableMemoryBytes;
-        double ramPercentage = (memUsed / totalRam) * 100;
+        if (totalTimeMs > 0)
+        {
+            cpuPercent = (cpuUsedMs / totalTimeMs) / Environment.ProcessorCount * 100;
+        }
 
-        Console.WriteLine($"\nAlgoritmo: {algorithmName}");
-        Console.WriteLine($"Tempo: {sw.ElapsedMilliseconds} ms");
-        Console.WriteLine($"CPU usada: {cpuPercentage:F2}%");
-        Console.WriteLine($"RAM usada: {ramPercentage:F6}%");
+        Console.WriteLine($"Repetições do teste: {REPETITIONS}");
+        Console.WriteLine($"Execuções internas por repetição: {INTERNAL_LOOPS}");
+        Console.WriteLine($"Tempo total: {totalTimeMs:F6} ms");
+        Console.WriteLine($"CPU utilizada: {cpuPercent:F6}%");
+        Console.WriteLine($"RAM utilizada pelo processo: {ramUsage} bytes");
 
         Console.WriteLine("Resultado ordenado:");
-        foreach (var n in copy)
-            Console.Write(n + " ");
-
-        Console.WriteLine("\n");
+        Console.WriteLine(string.Join(" ", result));
     }
 }

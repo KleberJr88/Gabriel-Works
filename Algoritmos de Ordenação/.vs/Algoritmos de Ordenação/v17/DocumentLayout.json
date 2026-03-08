@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\Kleber Jr\\Downloads\\eng_software_unicesumar-main\\Gabriel-Works\\Algoritmos de Ordena\u00E7\u00E3o\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1E12A078-6CCD-4C2E-841E-278C2755E1AB}|Algoritmos de Ordena\u00E7\u00E3o\\Algoritmos de Ordena\u00E7\u00E3o.csproj|c:\\users\\kleber jr\\downloads\\eng_software_unicesumar-main\\gabriel-works\\algoritmos de ordena\u00E7\u00E3o\\algoritmos de ordena\u00E7\u00E3o\\benchmarkrunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E12A078-6CCD-4C2E-841E-278C2755E1AB}|Algoritmos de Ordena\u00E7\u00E3o\\Algoritmos de Ordena\u00E7\u00E3o.csproj|solutionrelative:algoritmos de ordena\u00E7\u00E3o\\benchmarkrunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E12A078-6CCD-4C2E-841E-278C2755E1AB}|Algoritmos de Ordena\u00E7\u00E3o\\Algoritmos de Ordena\u00E7\u00E3o.csproj|c:\\users\\kleber jr\\downloads\\eng_software_unicesumar-main\\gabriel-works\\algoritmos de ordena\u00E7\u00E3o\\algoritmos de ordena\u00E7\u00E3o\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E12A078-6CCD-4C2E-841E-278C2755E1AB}|Algoritmos de Ordena\u00E7\u00E3o\\Algoritmos de Ordena\u00E7\u00E3o.csproj|solutionrelative:algoritmos de ordena\u00E7\u00E3o\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E12A078-6CCD-4C2E-841E-278C2755E1AB}|Algoritmos de Ordena\u00E7\u00E3o\\Algoritmos de Ordena\u00E7\u00E3o.csproj|c:\\users\\kleber jr\\downloads\\eng_software_unicesumar-main\\gabriel-works\\algoritmos de ordena\u00E7\u00E3o\\algoritmos de ordena\u00E7\u00E3o\\quick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E12A078-6CCD-4C2E-841E-278C2755E1AB}|Algoritmos de Ordena\u00E7\u00E3o\\Algoritmos de Ordena\u00E7\u00E3o.csproj|solutionrelative:algoritmos de ordena\u00E7\u00E3o\\quick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E12A078-6CCD-4C2E-841E-278C2755E1AB}|Algoritmos de Ordena\u00E7\u00E3o\\Algoritmos de Ordena\u00E7\u00E3o.csproj|c:\\users\\kleber jr\\downloads\\eng_software_unicesumar-main\\gabriel-works\\algoritmos de ordena\u00E7\u00E3o\\algoritmos de ordena\u00E7\u00E3o\\arraygenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E12A078-6CCD-4C2E-841E-278C2755E1AB}|Algoritmos de Ordena\u00E7\u00E3o\\Algoritmos de Ordena\u00E7\u00E3o.csproj|solutionrelative:algoritmos de ordena\u00E7\u00E3o\\arraygenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1E12A078-6CCD-4C2E-841E-278C2755E1AB}|Algoritmos de Ordena\u00E7\u00E3o\\Algoritmos de Ordena\u00E7\u00E3o.csproj|c:\\users\\kleber jr\\downloads\\eng_software_unicesumar-main\\gabriel-works\\algoritmos de ordena\u00E7\u00E3o\\algoritmos de ordena\u00E7\u00E3o\\mergesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E12A078-6CCD-4C2E-841E-278C2755E1AB}|Algoritmos de Ordena\u00E7\u00E3o\\Algoritmos de Ordena\u00E7\u00E3o.csproj|solutionrelative:algoritmos de ordena\u00E7\u00E3o\\mergesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,17 +30,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kleber Jr\\Downloads\\eng_software_unicesumar-main\\Gabriel-Works\\Algoritmos de Ordena\u00E7\u00E3o\\Algoritmos de Ordena\u00E7\u00E3o\\Program.cs",
+              "RelativeDocumentMoniker": "Algoritmos de Ordena\u00E7\u00E3o\\Program.cs",
+              "ToolTip": "C:\\Users\\Kleber Jr\\Downloads\\eng_software_unicesumar-main\\Gabriel-Works\\Algoritmos de Ordena\u00E7\u00E3o\\Algoritmos de Ordena\u00E7\u00E3o\\Program.cs",
+              "RelativeToolTip": "Algoritmos de Ordena\u00E7\u00E3o\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T18:19:57.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "BenchmarkRunner.cs",
+              "DocumentMoniker": "C:\\Users\\Kleber Jr\\Downloads\\eng_software_unicesumar-main\\Gabriel-Works\\Algoritmos de Ordena\u00E7\u00E3o\\Algoritmos de Ordena\u00E7\u00E3o\\BenchmarkRunner.cs",
+              "RelativeDocumentMoniker": "Algoritmos de Ordena\u00E7\u00E3o\\BenchmarkRunner.cs",
+              "ToolTip": "C:\\Users\\Kleber Jr\\Downloads\\eng_software_unicesumar-main\\Gabriel-Works\\Algoritmos de Ordena\u00E7\u00E3o\\Algoritmos de Ordena\u00E7\u00E3o\\BenchmarkRunner.cs",
+              "RelativeToolTip": "Algoritmos de Ordena\u00E7\u00E3o\\BenchmarkRunner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T18:19:50.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ArrayGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Kleber Jr\\Downloads\\eng_software_unicesumar-main\\Gabriel-Works\\Algoritmos de Ordena\u00E7\u00E3o\\Algoritmos de Ordena\u00E7\u00E3o\\ArrayGenerator.cs",
+              "RelativeDocumentMoniker": "Algoritmos de Ordena\u00E7\u00E3o\\ArrayGenerator.cs",
+              "ToolTip": "C:\\Users\\Kleber Jr\\Downloads\\eng_software_unicesumar-main\\Gabriel-Works\\Algoritmos de Ordena\u00E7\u00E3o\\Algoritmos de Ordena\u00E7\u00E3o\\ArrayGenerator.cs",
+              "RelativeToolTip": "Algoritmos de Ordena\u00E7\u00E3o\\ArrayGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T18:19:45.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Quick.cs",
+              "DocumentMoniker": "C:\\Users\\Kleber Jr\\Downloads\\eng_software_unicesumar-main\\Gabriel-Works\\Algoritmos de Ordena\u00E7\u00E3o\\Algoritmos de Ordena\u00E7\u00E3o\\Quick.cs",
+              "RelativeDocumentMoniker": "Algoritmos de Ordena\u00E7\u00E3o\\Quick.cs",
+              "ToolTip": "C:\\Users\\Kleber Jr\\Downloads\\eng_software_unicesumar-main\\Gabriel-Works\\Algoritmos de Ordena\u00E7\u00E3o\\Algoritmos de Ordena\u00E7\u00E3o\\Quick.cs",
+              "RelativeToolTip": "Algoritmos de Ordena\u00E7\u00E3o\\Quick.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T18:20:03.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "MergeSort.cs",
               "DocumentMoniker": "C:\\Users\\Kleber Jr\\Downloads\\eng_software_unicesumar-main\\Gabriel-Works\\Algoritmos de Ordena\u00E7\u00E3o\\Algoritmos de Ordena\u00E7\u00E3o\\MergeSort.cs",
               "RelativeDocumentMoniker": "Algoritmos de Ordena\u00E7\u00E3o\\MergeSort.cs",
               "ToolTip": "C:\\Users\\Kleber Jr\\Downloads\\eng_software_unicesumar-main\\Gabriel-Works\\Algoritmos de Ordena\u00E7\u00E3o\\Algoritmos de Ordena\u00E7\u00E3o\\MergeSort.cs",
               "RelativeToolTip": "Algoritmos de Ordena\u00E7\u00E3o\\MergeSort.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAA6wAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-06T17:24:15.823Z",
               "EditorCaption": ""
