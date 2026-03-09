@@ -1,0 +1,96 @@
+Uso do programa - Kleber Junior:
+
+Ao abrir o programa.cs o usuario terá de escolher entre 2 opções: QuickSort e MergeSort, onde a partir da escolha do usuario e a escolha dos numeros para a ordenação, o programa mostrará ao usuario todas as caracteristicas da ordenação.
+
+
+Dados estatísticos do QuickSort - Felipe Shibata:
+ 
+(3 posições, 10 repetições do algoritmo, 1000 execuções por repetição):
+
+1- Tempo Total: 2,90 ms
+CPU utilizada: 67,38%
+RAM utilizada: 32,38 Mb
+
+2- Tempo Total: 2,47 ms
+CPU utilizada: 79,05%
+RAM utilizada: 31,90 Mb
+
+3- Tempo Total: 2,23 ms
+CPU utilizada: 0,00%
+RAM utilizada: 32,14 Mb
+
+Média Tempo Total: 2,53 ms
+Média CPU utilizada: 48,81%
+Média RAM utilizada: 32,14 Mb
+
+Desvio padrão Tempo Total: 0,23
+Desvio padrão CPU utilizada: 42,67
+Desvio padrão RAM utilizada: 0,24
+
+Dados estatísticos do QuickSort (5 posições, 10 repetições do algoritmo, 1000 execuções por repetição):
+
+1- Tempo Total: 2,36 ms
+CPU utilizada: 82,49%
+RAM utilizada: 32,03 Mb
+
+2- Tempo Total: 9,21 ms
+CPU utilizada: 42,37%
+RAM utilizada: 32,31 Mb
+
+3- Tempo Total: 2,66 ms
+CPU utilizada: 0,00%
+RAM utilizada: 32,05 Mb
+
+Média Tempo Total: 4,70 ms
+Média CPU utilizada: 41,62%
+Média RAM utilizada: 32,16 Mb
+
+Desvio padrão Tempo Total: 3,91
+Desvio padrão CPU utilizada: 41,25
+Desvio padrão RAM utilizada: 0,14
+
+Dados estatísticos do MergeSort (3 posições, 10 repetições do algoritmo, 1000 execuções por repetição):
+
+1- Tempo Total: 8,96 ms
+CPU utilizada: 0,00%
+RAM utilizada: 31,96 Mb
+
+2- Tempo Total: 7,41 ms
+CPU utilizada: 0,00%
+RAM utilizada: 32,12 Mb
+
+3- Tempo Total: 7,91 ms
+CPU utilizada: 0,00%
+RAM utilizada: 32,13 Mb
+
+Média Tempo Total: 7,02 ms
+Média CPU utilizada: 0%
+Média RAM utilizada: 32,07 Mb
+
+Desvio padrão Tempo Total: 2,16
+Desvio padrão CPU utilizada: 0
+Desvio padrão RAM utilizada: 0,10
+
+Dados estatísticos do MergeSort (5 posições, 10 repetições do algoritmo, 1000 execuções por repetição):
+
+1- Tempo Total: 3,78 ms
+CPU utilizada: 0,00%
+RAM utilizada: 32,50 Mb
+
+2- Tempo Total: 5,77 ms
+CPU utilizada: 0,00%
+RAM utilizada: 32,63 Mb
+
+3- Tempo Total: 7,91 ms
+CPU utilizada: 0,00%
+RAM utilizada: 32,13 Mb
+
+Média Tempo Total: 5,82 ms
+Média CPU utilizada: 0%
+Média RAM utilizada: 32,42 Mb
+
+Desvio padrão Tempo Total: 2,07
+Desvio padrão CPU utilizada: 0
+Desvio padrão RAM utilizada: 0,26
+
+
