@@ -5,8 +5,8 @@ public static class BenchmarkRunner
 {
     public static void Run(Action<int[]> sortAlgorithm, int[] array)
     {
-        const int REPETITIONS = 10;          // número de medições
-        const int INTERNAL_LOOPS = 1000;     // execuções internas para gerar carga real
+        const int REPETITIONS = 10;        
+        const int INTERNAL_LOOPS = 1000;     
 
         var process = Process.GetCurrentProcess();
         process.Refresh();
