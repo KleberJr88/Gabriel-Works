@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Algoritmos de Ordenação")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ff37418fa7eea933f6a937097bb5bd7c6d1e9bf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9616ed617ef094efb79d4c1cae262c0f3522ceda")]
 [assembly: System.Reflection.AssemblyProductAttribute("Algoritmos de Ordenação")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Algoritmos de Ordenação")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

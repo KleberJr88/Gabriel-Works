@@ -40,10 +40,9 @@
               "RelativeDocumentMoniker": "Algoritmos de Ordena\u00E7\u00E3o\\Program.cs",
               "ToolTip": "C:\\Users\\Kleber Jr\\Downloads\\eng_software_unicesumar-main\\Gabriel-Works\\Algoritmos de Ordena\u00E7\u00E3o\\Algoritmos de Ordena\u00E7\u00E3o\\Program.cs",
               "RelativeToolTip": "Algoritmos de Ordena\u00E7\u00E3o\\Program.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAAC0AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAC0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-08T18:19:57.704Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-08T18:19:57.704Z"
             },
             {
               "$type": "Document",
@@ -53,7 +52,7 @@
               "RelativeDocumentMoniker": "Algoritmos de Ordena\u00E7\u00E3o\\BenchmarkRunner.cs",
               "ToolTip": "C:\\Users\\Kleber Jr\\Downloads\\eng_software_unicesumar-main\\Gabriel-Works\\Algoritmos de Ordena\u00E7\u00E3o\\Algoritmos de Ordena\u00E7\u00E3o\\BenchmarkRunner.cs",
               "RelativeToolTip": "Algoritmos de Ordena\u00E7\u00E3o\\BenchmarkRunner.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwDQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-08T18:19:50.965Z",
               "EditorCaption": ""
@@ -68,8 +67,7 @@
               "RelativeToolTip": "Algoritmos de Ordena\u00E7\u00E3o\\ArrayGenerator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-08T18:19:45.445Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-08T18:19:45.445Z"
             },
             {
               "$type": "Document",
@@ -81,8 +79,7 @@
               "RelativeToolTip": "Algoritmos de Ordena\u00E7\u00E3o\\Quick.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-08T18:20:03.879Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-08T18:20:03.879Z"
             },
             {
               "$type": "Document",
@@ -94,8 +91,7 @@
               "RelativeToolTip": "Algoritmos de Ordena\u00E7\u00E3o\\MergeSort.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAiwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T17:24:15.823Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-06T17:24:15.823Z"
             }
           ]
         }
