@@ -42,7 +42,8 @@
               "RelativeToolTip": "Algoritmos de Ordena\u00E7\u00E3o\\Program.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAAC0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-08T18:19:57.704Z"
+              "WhenOpened": "2026-03-08T18:19:57.704Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -50,9 +51,9 @@
               "Title": "BenchmarkRunner.cs",
               "DocumentMoniker": "C:\\Users\\Kleber Jr\\Downloads\\eng_software_unicesumar-main\\Gabriel-Works\\Algoritmos de Ordena\u00E7\u00E3o\\Algoritmos de Ordena\u00E7\u00E3o\\BenchmarkRunner.cs",
               "RelativeDocumentMoniker": "Algoritmos de Ordena\u00E7\u00E3o\\BenchmarkRunner.cs",
-              "ToolTip": "C:\\Users\\Kleber Jr\\Downloads\\eng_software_unicesumar-main\\Gabriel-Works\\Algoritmos de Ordena\u00E7\u00E3o\\Algoritmos de Ordena\u00E7\u00E3o\\BenchmarkRunner.cs",
-              "RelativeToolTip": "Algoritmos de Ordena\u00E7\u00E3o\\BenchmarkRunner.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwDQAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Kleber Jr\\Downloads\\eng_software_unicesumar-main\\Gabriel-Works\\Algoritmos de Ordena\u00E7\u00E3o\\Algoritmos de Ordena\u00E7\u00E3o\\BenchmarkRunner.cs*",
+              "RelativeToolTip": "Algoritmos de Ordena\u00E7\u00E3o\\BenchmarkRunner.cs*",
+              "ViewState": "AgIAACcAAAAAAAAAAAAUwDUAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-08T18:19:50.965Z",
               "EditorCaption": ""
